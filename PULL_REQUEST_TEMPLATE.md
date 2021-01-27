@@ -1,18 +1,26 @@
+## Description
+
 <!--
-  What changes are being made? What problem are you solving?
-  What feature/bug is being fixed here?
-  If this is an aesthetic change, please include screenshots.
+What changes are being made? What problem are you solving?
+What feature/bug is being fixed here?
+If this is an aesthetic change, please include screenshots.
 -->
 
-## Types of Changes
+### Types of Changes
 
-<!-- Put an `x` in all the boxes that apply: -->
-- [ ] Bug fix.
-- [ ] New feature.
-- [ ] Performance improvement.
+<!-- Delete any which don't apply (feel free to modify): -->
 
-## Testing
+- Bug fix.
+- New feature.
+- Breaking change.
+- Performance improvement.
+- Maintenance.
 
-<!-- Put an `x` in all the boxes that apply: -->
-- [ ] I added new tests for my changes.
-- [ ] I ran all the tests locally.
+### Testing
+
+<!-- Delete any which don't apply (you don't need to check all of them initially): -->
+
+- [ ] I added tests for my changes.
+- [ ] I tested my changes locally.
+- [ ] I tested my changes in staging.
+- [ ] I tested my changes in production.
