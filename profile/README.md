@@ -1,6 +1,6 @@
 # Socketry
 
-Open Source components for Scalable Ruby applications.
+Open Source components for building scalable Ruby applications.
 
 - [General Discussions](https://github.com/socketry/community/discussions)
 - [Commercial Support](https://socketry.io)
