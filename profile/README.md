@@ -1,6 +1,4 @@
-# Socketry
-
-Open Source components for building scalable Ruby applications.
+# Quick Links
 
 - [General Discussions](https://github.com/socketry/community/discussions)
 - [Commercial Support](https://socketry.io)
