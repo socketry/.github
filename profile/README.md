@@ -5,4 +5,4 @@
 - [Live Programming](https://www.youtube.com/watch?v=9JfIbFqXztM&list=PLG-PicXncPwJdqVFEY8khbjsjkWww-zdh)
 - [GitHub Sponsorship](https://github.com/sponsors/ioquatix)
 - [Commercial Support](https://socketry.io)
-- [Swag & Stickers](http://redbubble.com/people/ioquatix/shop)
+- [Swag & Stickers](https://socketry.redbubble.com)
