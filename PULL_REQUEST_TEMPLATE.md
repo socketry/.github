@@ -1,5 +1,3 @@
-## Description
-
 <!--
 What changes are being made? What problem are you solving?
 What feature/bug is being fixed here?
