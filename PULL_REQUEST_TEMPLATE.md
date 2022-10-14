@@ -21,5 +21,4 @@ Link to any relevant issues.
 
 - [ ] I added tests for my changes.
 - [ ] I tested my changes locally.
-- [ ] I have included valid `Signed-off-by` in each commit.
 - [ ] I agree to the [Developer's Certificate of Origin 1.1](https://developercertificate.org/).
