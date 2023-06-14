@@ -8,4 +8,4 @@ c. the effective abolition of child labour;
 d. the elimination of discrimination in respect of employment and occupation; and
 e. a safe and healthy working environment.
 
-Socketry, the open source organisation, is committed to these principles and rights.
+**Socketry, the open source organisation, is committed to these principles and rights.**
