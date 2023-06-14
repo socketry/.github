@@ -6,3 +6,8 @@
 - [GitHub Sponsorship](https://github.com/sponsors/ioquatix)
 - [Commercial Support](https://socketry.io)
 - [Swag & Stickers](https://socketry.redbubble.com)
+
+## Community
+
+- [Code of Conduct](conduct.md)
+- [ILO Declaration](ilo-declaration.md)
