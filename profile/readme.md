@@ -10,4 +10,5 @@
 ## Community
 
 - [Code of Conduct](conduct.md)
+- [Developer Certificate of Origin](developer-certificate-of-origin.md)
 - [ILO Declaration](ilo-declaration.md)
